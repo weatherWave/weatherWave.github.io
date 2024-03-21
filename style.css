@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Sans+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+body {
+    font-family: "Averia Sans Libre", sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+header {
+    background-color: #00aaff;
+    padding: 1% 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fab.fa-google-play {
+    color: white;
+    font-size: 2rem;
+}
+
+img {
+    width: 5%;
+    border-radius: 7%;
+}
+
+header h1 {
+    color: white;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main h1 {
+    text-align: center;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #00aaff;
+}
+
+footer {
+    background-color: #00aaff;
+    color: #fff;
+    text-align: center;
+    padding: 1% 10%;
+}
+footer b {
+    font-size: 24px;
+}
